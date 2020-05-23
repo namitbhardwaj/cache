@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[53]:
-
-
 import pandas as pd
 import numpy as np
 from collections import defaultdict 
@@ -15,21 +9,17 @@ from tabulate import tabulate
 import threading
 import time
 
-
-# In[54]:
-
-
 # ADDR = './401part.csv'
 
 # file name below also in os delete command
 ADDR_LIST = [
-#             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/510.parest_r/510.parest_r.pinatrace.csv',
-#             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/511.povray_r/511.povray_r.pinatrace.csv',
-#              '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/526.blender_r/526.blender_r.pinatrace.csv'
-#              '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/600.perlbench_s/600.perlbench_s.pinatrace.csv',
-#              '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/602.gcc_s/602.gcc_s.pinatrace.csv',
-#             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/605.mcf_s/605.mcf_s.pinatrace.csv',
-#             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/620.omnetpp_s/620.omnetpp_s.pinatrace.csv'
+#     '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/510.parest_r/510.parest_r.pinatrace.csv',
+            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/511.povray_r/511.povray_r.pinatrace.csv',
+             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/526.blender_r/526.blender_r.pinatrace.csv',
+             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/600.perlbench_s/600.perlbench_s.pinatrace.csv',
+             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/602.gcc_s/602.gcc_s.pinatrace.csv',
+            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/605.mcf_s/605.mcf_s.pinatrace.csv',
+            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/620.omnetpp_s/620.omnetpp_s.pinatrace.csv',
             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/623.xalancbmk_s/623.xalancbmk_s.pinatrace.csv',
             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/625.x264_s/625.x264_s.pinatrace.csv',
             '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/631.deepsjeng_s/631.deepsjeng_s.pinatrace.csv',
@@ -39,34 +29,20 @@ ADDR_LIST = [
             ]
 # ADDR = '/nfs_home/SPEC_2006/400.perlbench/400.perlbench.pinatrace.csv'
 final_ADDR = '/nfs_home/nbhardwaj/data/SPEC2017/'
-addr_l = [
-#     510, 511, 526
-#            600, 602, 605, 620
-       623, 625, 631, 641, 648, 657
-         ]
+addr_l = [510, 511, 526, 600, 602, 605, 620, 632, 625, 631, 641, 648, 657]
 # df = pd.read_csv(ADDR, skiprows = [0], nrows = 10000)
-
-
-# In[55]:
-
 
 # verify addresses 
 for ADDR in ADDR_LIST:
     if not os.path.isfile(ADDR):
         print("xxxx|| file not found ||"+str(ADDR))
-for ind, ADDR in enumerate(ADDR_LIST):
-    print(addr_l[ind], ADDR)
 print("file location verified")
-
-
-# In[52]:
-
 
 def file_split(iaddr, ADDR, iters):
     print("---------processing list----->", ADDR)
-    for df in pd.read_csv(ADDR, skiprows = [0], usecols = ['ICount', 'Instruction', 'Mode', 'Data'],chunksize = 50000000):
-        iters += 1
-        print("--iters--------->", iters, ADDR)
+    for df in pd.read_csv(ADDR, skiprows = [0], usecols = ['ICount', 'Instruction', 'Mode', 'Data'],chunksize = 100000000):
+        iter += 1
+        print("--iters--------->", iter, ADDR)
 
         df.rename(columns = {'Data':'hex_Data', 'Instruction':'hex_Instruction'}, inplace = True) 
 
@@ -110,10 +86,6 @@ def file_split(iaddr, ADDR, iters):
             else:
                 df_sub.to_csv(faddr, mode = 'a', header = False, index = False)
 
-
-# In[48]:
-
-
 threads = []
 iters = 0
 for iaddr, ADDR in enumerate(ADDR_LIST):
@@ -124,15 +96,6 @@ for t in threads:
     t.join()
     
 print("XXXXXXXXXXXX || DONE FILE SPLIT || XXXXXXXXXXXXXXXXXX")
-
-
-# In[39]:
-
-
-
-
-
-# In[ ]:
 
 
 
