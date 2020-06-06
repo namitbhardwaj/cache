@@ -99,26 +99,26 @@ def preprocess(ADDR, curr_filename, cset, final_ADDR):
 # In[65]:
 
 
-set1 = [x for x in range(32)]
-set2 = [x for x in range(32, 64)]
+set1 = [x for x in range(64)]
+#set2 = [x for x in range(32, 64)]
 for curr_filename in addr_l:
-    thread1 = []
+  #  thread1 = []
     for cset in set1:
-        t = threading.Thread(target = preprocess, args = (ADDR, curr_filename, cset, final_ADDR))
-        thread1.append(t)
-        t.start()
-    for t in thread1:
-        t.join()
+ #       t = threading.Thread(target = preprocess, args = (ADDR, curr_filename, cset, final_ADDR))
+#        thread1.append(t)
+#        t.start()
+ #   for t in thread1:
+  #      t.join()
         preprocess(ADDR, curr_filename, cset, final_ADDR)
         
-    thread2 = []
-    for cset in set2:
-        t = threading.Thread(target = preprocess, args = (ADDR, curr_filename, cset, final_ADDR))
-        thread2.append(t)
-        t.start()
-    for t in thread2:
-        t.join()
-        preprocess(ADDR, curr_filename, cset, final_ADDR)
+ #   thread2 = []
+  #  for cset in set2:
+   #     t = threading.Thread(target = preprocess, args = (ADDR, curr_filename, cset, final_ADDR))
+    #    thread2.append(t)
+     #   t.start()
+  #  for t in thread2:
+   #     t.join()
+#        preprocess(ADDR, curr_filename, cset, final_ADDR)
         
     print("----finished processing---->", curr_filename)
 

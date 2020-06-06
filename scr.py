@@ -26,24 +26,24 @@ ADDR_LIST = [
 #           '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/510.parest_r/510.parest_r.pinatrace.csv',
  #           '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/511.povray_r/511.povray_r.pinatrace.csv',
   #           '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/526.blender_r/526.blender_r.pinatrace.csv'
-           #  '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/600.perlbench_s/600.perlbench_s.pinatrace.csv',
-          #   '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/602.gcc_s/602.gcc_s.pinatrace.csv',
-         #   '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/605.mcf_s/605.mcf_s.pinatrace.csv',
-        #    '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/620.omnetpp_s/620.omnetpp_s.pinatrace.csv'
-       #     '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/623.xalancbmk_s/623.xalancbmk_s.pinatrace.csv',
-      #      '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/625.x264_s/625.x264_s.pinatrace.csv',
-     #       '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/631.deepsjeng_s/631.deepsjeng_s.pinatrace.csv',
-            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/641.leela_s/641.leela_s.pinatrace.csv',
-            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/648.exchange2_s/648.exchange2_s.pinatrace.csv',
-            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/657.xz_s/657.xz_s.pinatrace.csv'
+       #      '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/600.perlbench_s/600.perlbench_s.pinatrace.csv',
+        #     '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/602.gcc_s/602.gcc_s.pinatrace.csv',
+         #  '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/605.mcf_s/605.mcf_s.pinatrace.csv',
+         #  '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/620.omnetpp_s/620.omnetpp_s.pinatrace.csv'
+            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/623.xalancbmk_s/623.xalancbmk_s.pinatrace.csv',
+            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/625.x264_s/625.x264_s.pinatrace.csv',
+            '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/631.deepsjeng_s/631.deepsjeng_s.pinatrace.csv',
+    #        '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/641.leela_s/641.leela_s.pinatrace.csv',
+   #         '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/648.exchange2_s/648.exchange2_s.pinatrace.csv',
+  #          '/nfs_home/matkade/pinplay/Pintool/SPEC_2017_ST_First_run/657.xz_s/657.xz_s.pinatrace.csv'
             ]
 # ADDR = '/nfs_home/SPEC_2006/400.perlbench/400.perlbench.pinatrace.csv'
 final_ADDR = '/nfs_home/nbhardwaj/data/SPEC_final/'
 addr_l = [
    # 510, 511, 526
-#           600, 602, 605, 
- #   620,623, 625, 631, 
-       641, 648, 657
+     #      600, 602, 605,620 
+    623, 625, 631
+    # , 641, 648, 657
          ]
 # df = pd.read_csv(ADDR, skiprows = [0], nrows = 10000)
 
