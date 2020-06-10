@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
+# In[1]:
 
 
 import pandas as pd
@@ -17,57 +17,64 @@ import threading
 import time
 
 
-# In[18]:
+# In[14]:
 
 
 addr_l = [510
           , 511, 526, 600, 602, 620, 623, 625, 631, 641, 648, 657
-         ]
+         ] 
+
+
 sets = [x for x in range(64)]
 # ADDR = '/nfs_home/nbhardwaj/data/rds_data/SPEC2017/'
 ADDR = '/nfs_home/nbhardwaj/data/rds_final/'
 w_ADDR = '/nfs_home/nbhardwaj/results/'
 
 
-# In[ ]:
+# In[34]:
 
 
 # instr maps
-m = defaultdict(list)
-fm = defaultdict(list)
+# m = defaultdict(list)
+# fm = defaultdict(list)
 
-#data maps
-m2 = defaultdict(list)
-fm2 = defaultdict(list)
+# #data maps
+# m2 = defaultdict(list)
+# fm2 = defaultdict(list)
+m3 = {}
 # s_inst = defaultdict(set) # unique instr across sets 0-63
 # u_inst = defaultdict(list) # unique instr in a file and set
 # f_inst = defaultdict(list) # unique instr in a file
-begin = time.time()
 for fname in addr_l:
+    begin = time.time()
     for cset in sets:
         cADDR = ADDR+str(fname)+'_'+str(cset)+'.csv'
-        df = pd.read_csv(cADDR, usecols = ['Instruction', 'Data'])
-        uinst = df.Instruction.unique()
-        udata = df.Data.unique()
-        for i in uinst:
-            m[i].append(str(fname)+'_'+str(cset))
-        for d in udata:
-            m2[d].append(str(fname)+'_'+str(cset))
-        for x, y in df.values:
-            if(x in fm.keys()):
-                fm[x] += 1
+        df = pd.read_csv(cADDR,usecols = ['delta'])
+        udelta, counts = np.unique(df.delta.values, return_counts = True)
+        for idx in range(len(udelta)):
+            val = udelta[idx]
+            cnt = counts[idx]
+            if(m3.get(val) != None):
+                m3[val][fname]+=cnt
             else:
-                fm[x] = 1
-            if(y in fm2.keys()):
-                fm2[y] += 1
-            else:
-                fm2[y] = 1
+                m3[val] = {}
+                m3[val].update(zip(addr_l, np.zeros((len(addr_l)))))
+                m3[val][fname] = cnt
     print("finished-->", fname, "|| time passed->",time.time()-begin, "seconds")
-np.save(w_ADDR+'m.npy', m)
-np.save(w_ADDR+'m2.npy', m2)
-np.save(w_ADDR+'fm.npy', fm)
-np.save(w_ADDR+'fm2.npy', fm2)
+np.save(w_ADDR+'m_delta.npy', m3)
+# np.save(w_ADDR+'m2.npy', m2)
+# np.save(RES_ADDR+'fm.npy', fm)
+# np.save(RES_ADDR+'fm2.npy', fm2)
 print("XX || Its DONE || XX")
+
+
+# In[16]:
+
+
+# m = np.load(w_ADDR+'m.npy', allow_pickle = True).item()
+# m2 = np.load(w_ADDR+'m2.npy', allow_pickle = True).item()
+# fm = np.load(w_ADDR+'fm.npy', allow_pickle = True).item()
+# fm2 = np.load(w_ADDR+'fm2.npy', allow_pickle = True).item()
 
 
 # In[ ]:
@@ -76,10 +83,34 @@ print("XX || Its DONE || XX")
 
 
 
-# In[25]:
+# In[ ]:
 
 
-# a = sorted(fm2.items(), key = lambda x:x[1])
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
 
 # In[101]:

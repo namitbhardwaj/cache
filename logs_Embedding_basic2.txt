@@ -1,0 +1,1787 @@
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_0.hdf5
+Train on 1104912 samples, validate on 276228 samples
+Epoch 1/3
+ - 2s - loss: 0.7803 - accuracy: 0.7381 - val_loss: 0.7751 - val_accuracy: 0.7405
+Epoch 2/3
+ - 2s - loss: 0.7801 - accuracy: 0.7382 - val_loss: 0.7748 - val_accuracy: 0.7408
+Epoch 3/3
+ - 2s - loss: 0.7798 - accuracy: 0.7381 - val_loss: 0.7746 - val_accuracy: 0.7406
+------------training done------------
+--------------done processing for set----------> 0
+|| accuracy|| 0.7387440800666809 0.7388225793838501
+inst vocal 996 || delta vocal-> 81668
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_1.hdf5
+Train on 1261929 samples, validate on 315483 samples
+Epoch 1/3
+ - 2s - loss: 0.7929 - accuracy: 0.7516 - val_loss: 0.7931 - val_accuracy: 0.7521
+Epoch 2/3
+ - 2s - loss: 0.7919 - accuracy: 0.7515 - val_loss: 0.7924 - val_accuracy: 0.7518
+Epoch 3/3
+ - 3s - loss: 0.7912 - accuracy: 0.7516 - val_loss: 0.7917 - val_accuracy: 0.7519
+------------training done------------
+--------------done processing for set----------> 1
+|| accuracy|| 0.7516368627548218 0.7518134117126465
+inst vocal 955 || delta vocal-> 79880
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_2.hdf5
+Train on 1026912 samples, validate on 256729 samples
+Epoch 1/3
+ - 2s - loss: 0.6736 - accuracy: 0.7820 - val_loss: 0.6722 - val_accuracy: 0.7819
+Epoch 2/3
+ - 2s - loss: 0.6732 - accuracy: 0.7820 - val_loss: 0.6719 - val_accuracy: 0.7818
+Epoch 3/3
+ - 2s - loss: 0.6729 - accuracy: 0.7820 - val_loss: 0.6716 - val_accuracy: 0.7818
+------------training done------------
+--------------done processing for set----------> 2
+|| accuracy|| 0.7820761203765869 0.7815829515457153
+inst vocal 978 || delta vocal-> 77936
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_3.hdf5
+Train on 1068577 samples, validate on 267145 samples
+Epoch 1/3
+ - 2s - loss: 0.6705 - accuracy: 0.7822 - val_loss: 0.6738 - val_accuracy: 0.7813
+Epoch 2/3
+ - 2s - loss: 0.6705 - accuracy: 0.7821 - val_loss: 0.6738 - val_accuracy: 0.7814
+Epoch 3/3
+ - 2s - loss: 0.6705 - accuracy: 0.7821 - val_loss: 0.6738 - val_accuracy: 0.7813
+------------training done------------
+--------------done processing for set----------> 3
+|| accuracy|| 0.7820414900779724 0.781609296798706
+inst vocal 970 || delta vocal-> 78504
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_4.hdf5
+Train on 1501546 samples, validate on 375387 samples
+Epoch 1/3
+ - 3s - loss: 0.9300 - accuracy: 0.6825 - val_loss: 0.9279 - val_accuracy: 0.6844
+Epoch 2/3
+ - 3s - loss: 0.9299 - accuracy: 0.6825 - val_loss: 0.9278 - val_accuracy: 0.6843
+Epoch 3/3
+ - 3s - loss: 0.9297 - accuracy: 0.6824 - val_loss: 0.9276 - val_accuracy: 0.6844
+------------training done------------
+--------------done processing for set----------> 4
+|| accuracy|| 0.6829481720924377 0.6826056838035583
+inst vocal 939 || delta vocal-> 76456
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_5.hdf5
+Train on 2239300 samples, validate on 559825 samples
+Epoch 1/3
+ - 5s - loss: 0.6552 - accuracy: 0.8108 - val_loss: 0.6532 - val_accuracy: 0.8114
+Epoch 2/3
+ - 5s - loss: 0.6552 - accuracy: 0.8108 - val_loss: 0.6532 - val_accuracy: 0.8114
+Epoch 3/3
+ - 5s - loss: 0.6552 - accuracy: 0.8108 - val_loss: 0.6532 - val_accuracy: 0.8114
+------------training done------------
+--------------done processing for set----------> 5
+|| accuracy|| 0.8109369874000549 0.8116135001182556
+inst vocal 976 || delta vocal-> 89598
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_6.hdf5
+Train on 1525792 samples, validate on 381449 samples
+Epoch 1/3
+ - 3s - loss: 0.7327 - accuracy: 0.7522 - val_loss: 0.7313 - val_accuracy: 0.7529
+Epoch 2/3
+ - 3s - loss: 0.7326 - accuracy: 0.7522 - val_loss: 0.7312 - val_accuracy: 0.7528
+Epoch 3/3
+ - 3s - loss: 0.7325 - accuracy: 0.7521 - val_loss: 0.7312 - val_accuracy: 0.7528
+------------training done------------
+--------------done processing for set----------> 6
+|| accuracy|| 0.7523490786552429 0.7515019774436951
+inst vocal 965 || delta vocal-> 77009
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_7.hdf5
+Train on 2637285 samples, validate on 659322 samples
+Epoch 1/3
+ - 6s - loss: 0.5430 - accuracy: 0.8357 - val_loss: 0.5427 - val_accuracy: 0.8361
+Epoch 2/3
+ - 6s - loss: 0.5429 - accuracy: 0.8357 - val_loss: 0.5427 - val_accuracy: 0.8361
+Epoch 3/3
+ - 6s - loss: 0.5428 - accuracy: 0.8357 - val_loss: 0.5426 - val_accuracy: 0.8362
+------------training done------------
+--------------done processing for set----------> 7
+|| accuracy|| 0.8358206152915955 0.8361693620681763
+inst vocal 986 || delta vocal-> 83419
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_8.hdf5
+Train on 1229795 samples, validate on 307449 samples
+Epoch 1/3
+ - 3s - loss: 0.8158 - accuracy: 0.7154 - val_loss: 0.8175 - val_accuracy: 0.7145
+Epoch 2/3
+ - 3s - loss: 0.8158 - accuracy: 0.7152 - val_loss: 0.8174 - val_accuracy: 0.7159
+Epoch 3/3
+ - 3s - loss: 0.8157 - accuracy: 0.7154 - val_loss: 0.8174 - val_accuracy: 0.7146
+------------training done------------
+--------------done processing for set----------> 8
+|| accuracy|| 0.7149931788444519 0.7160689830780029
+inst vocal 947 || delta vocal-> 78513
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_9.hdf5
+Train on 1786049 samples, validate on 446513 samples
+Epoch 1/3
+ - 4s - loss: 1.0512 - accuracy: 0.6035 - val_loss: 1.0501 - val_accuracy: 0.6048
+Epoch 2/3
+ - 4s - loss: 1.0511 - accuracy: 0.6036 - val_loss: 1.0501 - val_accuracy: 0.6048
+Epoch 3/3
+ - 4s - loss: 1.0511 - accuracy: 0.6036 - val_loss: 1.0501 - val_accuracy: 0.6048
+------------training done------------
+--------------done processing for set----------> 9
+|| accuracy|| 0.6038945317268372 0.6038528084754944
+inst vocal 940 || delta vocal-> 77351
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_10.hdf5
+Train on 1098060 samples, validate on 274516 samples
+Epoch 1/3
+ - 3s - loss: 0.6672 - accuracy: 0.7832 - val_loss: 0.6707 - val_accuracy: 0.7824
+Epoch 2/3
+ - 2s - loss: 0.6671 - accuracy: 0.7831 - val_loss: 0.6706 - val_accuracy: 0.7824
+Epoch 3/3
+ - 2s - loss: 0.6669 - accuracy: 0.7831 - val_loss: 0.6705 - val_accuracy: 0.7824
+------------training done------------
+--------------done processing for set----------> 10
+|| accuracy|| 0.7830793857574463 0.7835456132888794
+inst vocal 976 || delta vocal-> 81562
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_11.hdf5
+Train on 1321163 samples, validate on 330291 samples
+Epoch 1/3
+ - 3s - loss: 0.8581 - accuracy: 0.7205 - val_loss: 0.8604 - val_accuracy: 0.7199
+Epoch 2/3
+ - 3s - loss: 0.8578 - accuracy: 0.7207 - val_loss: 0.8602 - val_accuracy: 0.7200
+Epoch 3/3
+ - 3s - loss: 0.8576 - accuracy: 0.7206 - val_loss: 0.8601 - val_accuracy: 0.7200
+------------training done------------
+--------------done processing for set----------> 11
+|| accuracy|| 0.7205262780189514 0.721351146697998
+inst vocal 946 || delta vocal-> 78425
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_12.hdf5
+Train on 1089303 samples, validate on 272326 samples
+Epoch 1/3
+ - 3s - loss: 0.6758 - accuracy: 0.7811 - val_loss: 0.6805 - val_accuracy: 0.7795
+Epoch 2/3
+ - 2s - loss: 0.6754 - accuracy: 0.7812 - val_loss: 0.6802 - val_accuracy: 0.7793
+Epoch 3/3
+ - 2s - loss: 0.6751 - accuracy: 0.7811 - val_loss: 0.6799 - val_accuracy: 0.7793
+------------training done------------
+--------------done processing for set----------> 12
+|| accuracy|| 0.7807508707046509 0.7805052399635315
+inst vocal 945 || delta vocal-> 78582
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_13.hdf5
+Train on 1642876 samples, validate on 410719 samples
+Epoch 1/3
+ - 4s - loss: 0.9531 - accuracy: 0.6430 - val_loss: 0.9508 - val_accuracy: 0.6436
+Epoch 2/3
+ - 4s - loss: 0.9529 - accuracy: 0.6430 - val_loss: 0.9506 - val_accuracy: 0.6434
+Epoch 3/3
+ - 4s - loss: 0.9528 - accuracy: 0.6429 - val_loss: 0.9505 - val_accuracy: 0.6432
+------------training done------------
+--------------done processing for set----------> 13
+|| accuracy|| 0.6428852677345276 0.6428099870681763
+inst vocal 964 || delta vocal-> 86022
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/620/620_14.hdf5
+Train on 2447284 samples, validate on 611822 samples
+Epoch 1/3
+ - 5s - loss: 0.6162 - accuracy: 0.7886 - val_loss: 0.6182 - val_accuracy: 0.7879
+Epoch 2/3
+ - 5s - loss: 0.6159 - accuracy: 0.7887 - val_loss: 0.6179 - val_accuracy: 0.7880
+Epoch 3/3
+ - 5s - loss: 0.6156 - accuracy: 0.7887 - val_loss: 0.6176 - val_accuracy: 0.7880
+------------training done------------
+--------------done processing for set----------> 14
+|| accuracy|| 0.7885807156562805 0.7896209955215454
+inst vocal 970 || delta vocal-> 92394
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2609651 samples, validate on 652413 samples
+Epoch 1/3
+ - 6s - loss: 1.7930 - accuracy: 0.5302 - val_loss: 1.3691 - val_accuracy: 0.5704
+Epoch 2/3
+ - 5s - loss: 1.1921 - accuracy: 0.6077 - val_loss: 1.0923 - val_accuracy: 0.6378
+Epoch 3/3
+ - 6s - loss: 1.0509 - accuracy: 0.6530 - val_loss: 1.0155 - val_accuracy: 0.6586
+------------training done------------
+--------------done processing for set----------> 15
+|| accuracy|| 0.6588117480278015 0.6587719917297363
+inst vocal 956 || delta vocal-> 63949
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2173366 samples, validate on 543342 samples
+Epoch 1/3
+ - 5s - loss: 1.8640 - accuracy: 0.5463 - val_loss: 1.5182 - val_accuracy: 0.5748
+Epoch 2/3
+ - 4s - loss: 1.2280 - accuracy: 0.5945 - val_loss: 1.0700 - val_accuracy: 0.6221
+Epoch 3/3
+ - 5s - loss: 1.0173 - accuracy: 0.6527 - val_loss: 0.9665 - val_accuracy: 0.6755
+------------training done------------
+--------------done processing for set----------> 16
+|| accuracy|| 0.6754590272903442 0.6753740906715393
+inst vocal 970 || delta vocal-> 68136
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1129854 samples, validate on 282464 samples
+Epoch 1/3
+ - 3s - loss: 1.9874 - accuracy: 0.6209 - val_loss: 1.8567 - val_accuracy: 0.6810
+Epoch 2/3
+ - 3s - loss: 1.6362 - accuracy: 0.6820 - val_loss: 1.3473 - val_accuracy: 0.6810
+Epoch 3/3
+ - 3s - loss: 1.1318 - accuracy: 0.6895 - val_loss: 0.9880 - val_accuracy: 0.7279
+------------training done------------
+--------------done processing for set----------> 17
+|| accuracy|| 0.7291799783706665 0.7290307879447937
+inst vocal 962 || delta vocal-> 81492
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2379955 samples, validate on 594989 samples
+Epoch 1/3
+ - 6s - loss: 1.7445 - accuracy: 0.6321 - val_loss: 1.2150 - val_accuracy: 0.6455
+Epoch 2/3
+ - 5s - loss: 0.9669 - accuracy: 0.6831 - val_loss: 0.8408 - val_accuracy: 0.7256
+Epoch 3/3
+ - 6s - loss: 0.7932 - accuracy: 0.7336 - val_loss: 0.7552 - val_accuracy: 0.7356
+------------training done------------
+--------------done processing for set----------> 18
+|| accuracy|| 0.7360199093818665 0.7354419231414795
+inst vocal 983 || delta vocal-> 63511
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1092782 samples, validate on 273196 samples
+Epoch 1/3
+ - 2s - loss: 1.9628 - accuracy: 0.6553 - val_loss: 1.7985 - val_accuracy: 0.6992
+Epoch 2/3
+ - 2s - loss: 1.5593 - accuracy: 0.6998 - val_loss: 1.2685 - val_accuracy: 0.6992
+Epoch 3/3
+ - 2s - loss: 1.0811 - accuracy: 0.6998 - val_loss: 0.9587 - val_accuracy: 0.6992
+------------training done------------
+--------------done processing for set----------> 19
+|| accuracy|| 0.69964599609375 0.699812114238739
+inst vocal 986 || delta vocal-> 80703
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1193165 samples, validate on 298292 samples
+Epoch 1/3
+ - 3s - loss: 2.0175 - accuracy: 0.5262 - val_loss: 1.9119 - val_accuracy: 0.6477
+Epoch 2/3
+ - 3s - loss: 1.7384 - accuracy: 0.6456 - val_loss: 1.4908 - val_accuracy: 0.6482
+Epoch 3/3
+ - 3s - loss: 1.2566 - accuracy: 0.6609 - val_loss: 1.0624 - val_accuracy: 0.6905
+------------training done------------
+--------------done processing for set----------> 20
+|| accuracy|| 0.6890550851821899 0.690019965171814
+inst vocal 968 || delta vocal-> 77675
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1722458 samples, validate on 430615 samples
+Epoch 1/3
+ - 4s - loss: 1.9112 - accuracy: 0.5509 - val_loss: 1.6461 - val_accuracy: 0.5811
+Epoch 2/3
+ - 4s - loss: 1.3360 - accuracy: 0.5842 - val_loss: 1.1242 - val_accuracy: 0.6107
+Epoch 3/3
+ - 4s - loss: 1.0508 - accuracy: 0.6372 - val_loss: 0.9959 - val_accuracy: 0.6564
+------------training done------------
+--------------done processing for set----------> 21
+|| accuracy|| 0.656617283821106 0.6559461951255798
+inst vocal 959 || delta vocal-> 70011
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 5094648 samples, validate on 1273662 samples
+Epoch 1/3
+ - 13s - loss: 1.4918 - accuracy: 0.5864 - val_loss: 0.9655 - val_accuracy: 0.6971
+Epoch 2/3
+ - 12s - loss: 0.8394 - accuracy: 0.7158 - val_loss: 0.7699 - val_accuracy: 0.7259
+Epoch 3/3
+ - 11s - loss: 0.7506 - accuracy: 0.7259 - val_loss: 0.7400 - val_accuracy: 0.7263
+------------training done------------
+--------------done processing for set----------> 22
+|| accuracy|| 0.7259899377822876 0.7258558869361877
+inst vocal 1021 || delta vocal-> 68112
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1090281 samples, validate on 272571 samples
+Epoch 1/3
+ - 3s - loss: 1.9515 - accuracy: 0.6557 - val_loss: 1.7851 - val_accuracy: 0.6753
+Epoch 2/3
+ - 2s - loss: 1.5462 - accuracy: 0.6768 - val_loss: 1.2602 - val_accuracy: 0.6753
+Epoch 3/3
+ - 2s - loss: 1.0938 - accuracy: 0.6768 - val_loss: 0.9897 - val_accuracy: 0.6753
+------------training done------------
+--------------done processing for set----------> 23
+|| accuracy|| 0.6765407919883728 0.6777247190475464
+inst vocal 962 || delta vocal-> 80702
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2570158 samples, validate on 642540 samples
+Epoch 1/3
+ - 6s - loss: 1.6038 - accuracy: 0.8057 - val_loss: 0.9309 - val_accuracy: 0.8237
+Epoch 2/3
+ - 5s - loss: 0.6850 - accuracy: 0.8317 - val_loss: 0.5840 - val_accuracy: 0.8519
+Epoch 3/3
+ - 6s - loss: 0.5562 - accuracy: 0.8535 - val_loss: 0.5321 - val_accuracy: 0.8559
+------------training done------------
+--------------done processing for set----------> 24
+|| accuracy|| 0.8557187914848328 0.8556839227676392
+inst vocal 961 || delta vocal-> 80068
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 6365288 samples, validate on 1591323 samples
+Epoch 1/3
+ - 15s - loss: 1.0658 - accuracy: 0.7926 - val_loss: 0.5358 - val_accuracy: 0.8593
+Epoch 2/3
+ - 15s - loss: 0.4727 - accuracy: 0.8666 - val_loss: 0.4371 - val_accuracy: 0.8671
+Epoch 3/3
+ - 15s - loss: 0.4210 - accuracy: 0.8695 - val_loss: 0.4123 - val_accuracy: 0.8697
+------------training done------------
+--------------done processing for set----------> 25
+|| accuracy|| 0.8699808120727539 0.8698967099189758
+inst vocal 958 || delta vocal-> 72459
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 5710358 samples, validate on 1427590 samples
+Epoch 1/3
+ - 14s - loss: 1.2162 - accuracy: 0.7212 - val_loss: 0.6519 - val_accuracy: 0.8365
+Epoch 2/3
+ - 13s - loss: 0.5409 - accuracy: 0.8412 - val_loss: 0.4774 - val_accuracy: 0.8475
+Epoch 3/3
+ - 14s - loss: 0.4569 - accuracy: 0.8479 - val_loss: 0.4435 - val_accuracy: 0.8487
+------------training done------------
+--------------done processing for set----------> 26
+|| accuracy|| 0.8482796549797058 0.848254919052124
+inst vocal 1005 || delta vocal-> 60883
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2907632 samples, validate on 726908 samples
+Epoch 1/3
+ - 7s - loss: 1.6894 - accuracy: 0.6725 - val_loss: 1.0951 - val_accuracy: 0.6997
+Epoch 2/3
+ - 7s - loss: 0.9212 - accuracy: 0.7244 - val_loss: 0.8390 - val_accuracy: 0.7334
+Epoch 3/3
+ - 7s - loss: 0.8030 - accuracy: 0.7368 - val_loss: 0.7756 - val_accuracy: 0.7408
+------------training done------------
+--------------done processing for set----------> 27
+|| accuracy|| 0.740813136100769 0.7407681345939636
+inst vocal 984 || delta vocal-> 59297
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 5563924 samples, validate on 1390982 samples
+Epoch 1/3
+ - 14s - loss: 1.1734 - accuracy: 0.7618 - val_loss: 0.5133 - val_accuracy: 0.8495
+Epoch 2/3
+ - 13s - loss: 0.4443 - accuracy: 0.8596 - val_loss: 0.4075 - val_accuracy: 0.8657
+Epoch 3/3
+ - 13s - loss: 0.4004 - accuracy: 0.8652 - val_loss: 0.3932 - val_accuracy: 0.8661
+------------training done------------
+--------------done processing for set----------> 28
+|| accuracy|| 0.8656694889068604 0.8652973175048828
+inst vocal 984 || delta vocal-> 62173
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2345895 samples, validate on 586474 samples
+Epoch 1/3
+ - 6s - loss: 1.8087 - accuracy: 0.5954 - val_loss: 1.3866 - val_accuracy: 0.6132
+Epoch 2/3
+ - 5s - loss: 1.1212 - accuracy: 0.6550 - val_loss: 0.9838 - val_accuracy: 0.6963
+Epoch 3/3
+ - 5s - loss: 0.9344 - accuracy: 0.6975 - val_loss: 0.8949 - val_accuracy: 0.6988
+------------training done------------
+--------------done processing for set----------> 29
+|| accuracy|| 0.6984454989433289 0.6989369988441467
+inst vocal 1004 || delta vocal-> 86635
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2297876 samples, validate on 574469 samples
+Epoch 1/3
+ - 6s - loss: 1.7761 - accuracy: 0.6684 - val_loss: 1.2720 - val_accuracy: 0.7224
+Epoch 2/3
+ - 5s - loss: 0.9473 - accuracy: 0.7342 - val_loss: 0.7975 - val_accuracy: 0.7655
+Epoch 3/3
+ - 5s - loss: 0.7481 - accuracy: 0.7711 - val_loss: 0.7175 - val_accuracy: 0.7729
+------------training done------------
+--------------done processing for set----------> 30
+|| accuracy|| 0.7737249732017517 0.7737439870834351
+inst vocal 1019 || delta vocal-> 87544
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 3773493 samples, validate on 943374 samples
+Epoch 1/3
+ - 9s - loss: 1.6245 - accuracy: 0.5446 - val_loss: 1.0951 - val_accuracy: 0.6281
+Epoch 2/3
+ - 8s - loss: 0.9321 - accuracy: 0.6830 - val_loss: 0.8292 - val_accuracy: 0.7075
+Epoch 3/3
+ - 8s - loss: 0.7917 - accuracy: 0.7089 - val_loss: 0.7658 - val_accuracy: 0.7098
+------------training done------------
+--------------done processing for set----------> 31
+|| accuracy|| 0.7094749808311462 0.7096017599105835
+inst vocal 978 || delta vocal-> 89289
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1262451 samples, validate on 315613 samples
+Epoch 1/3
+ - 3s - loss: 1.9213 - accuracy: 0.6467 - val_loss: 1.7132 - val_accuracy: 0.6594
+Epoch 2/3
+ - 3s - loss: 1.4333 - accuracy: 0.6580 - val_loss: 1.1635 - val_accuracy: 0.6594
+Epoch 3/3
+ - 3s - loss: 1.0549 - accuracy: 0.6625 - val_loss: 0.9629 - val_accuracy: 0.6955
+------------training done------------
+--------------done processing for set----------> 32
+|| accuracy|| 0.6944756507873535 0.6946408152580261
+inst vocal 964 || delta vocal-> 77150
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1436410 samples, validate on 359103 samples
+Epoch 1/3
+ - 4s - loss: 1.9542 - accuracy: 0.5573 - val_loss: 1.7654 - val_accuracy: 0.6664
+Epoch 2/3
+ - 3s - loss: 1.4706 - accuracy: 0.6657 - val_loss: 1.1618 - val_accuracy: 0.6664
+Epoch 3/3
+ - 3s - loss: 1.0432 - accuracy: 0.6892 - val_loss: 0.9687 - val_accuracy: 0.7193
+------------training done------------
+--------------done processing for set----------> 33
+|| accuracy|| 0.718563973903656 0.7180616855621338
+inst vocal 975 || delta vocal-> 75565
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1351860 samples, validate on 337966 samples
+Epoch 1/3
+ - 4s - loss: 1.9799 - accuracy: 0.5864 - val_loss: 1.8249 - val_accuracy: 0.6438
+Epoch 2/3
+ - 3s - loss: 1.5647 - accuracy: 0.6429 - val_loss: 1.2567 - val_accuracy: 0.6438
+Epoch 3/3
+ - 3s - loss: 1.0948 - accuracy: 0.6519 - val_loss: 0.9801 - val_accuracy: 0.6860
+------------training done------------
+--------------done processing for set----------> 34
+|| accuracy|| 0.6849042177200317 0.6841956973075867
+inst vocal 931 || delta vocal-> 82980
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1263237 samples, validate on 315810 samples
+Epoch 1/3
+ - 3s - loss: 1.9274 - accuracy: 0.6379 - val_loss: 1.7275 - val_accuracy: 0.6640
+Epoch 2/3
+ - 3s - loss: 1.4440 - accuracy: 0.6645 - val_loss: 1.1569 - val_accuracy: 0.6640
+Epoch 3/3
+ - 3s - loss: 1.0349 - accuracy: 0.6971 - val_loss: 0.9531 - val_accuracy: 0.7188
+------------training done------------
+--------------done processing for set----------> 35
+|| accuracy|| 0.718604326248169 0.7186821699142456
+inst vocal 934 || delta vocal-> 83951
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1899712 samples, validate on 474928 samples
+Epoch 1/3
+ - 5s - loss: 1.8574 - accuracy: 0.6255 - val_loss: 1.5013 - val_accuracy: 0.6790
+Epoch 2/3
+ - 4s - loss: 1.1870 - accuracy: 0.6788 - val_loss: 1.0162 - val_accuracy: 0.6878
+Epoch 3/3
+ - 4s - loss: 0.9604 - accuracy: 0.7195 - val_loss: 0.9145 - val_accuracy: 0.7290
+------------training done------------
+--------------done processing for set----------> 36
+|| accuracy|| 0.7284573912620544 0.7287861704826355
+inst vocal 960 || delta vocal-> 60360
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1479300 samples, validate on 369826 samples
+Epoch 1/3
+ - 4s - loss: 1.9588 - accuracy: 0.5903 - val_loss: 1.7640 - val_accuracy: 0.6524
+Epoch 2/3
+ - 3s - loss: 1.4510 - accuracy: 0.6521 - val_loss: 1.1397 - val_accuracy: 0.6524
+Epoch 3/3
+ - 3s - loss: 1.0269 - accuracy: 0.6757 - val_loss: 0.9482 - val_accuracy: 0.7072
+------------training done------------
+--------------done processing for set----------> 37
+|| accuracy|| 0.7063677906990051 0.706125020980835
+inst vocal 939 || delta vocal-> 77592
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2011860 samples, validate on 502965 samples
+Epoch 1/3
+ - 5s - loss: 1.9146 - accuracy: 0.6246 - val_loss: 1.6123 - val_accuracy: 0.7125
+Epoch 2/3
+ - 4s - loss: 1.1938 - accuracy: 0.7173 - val_loss: 0.9268 - val_accuracy: 0.7428
+Epoch 3/3
+ - 4s - loss: 0.8515 - accuracy: 0.7489 - val_loss: 0.8089 - val_accuracy: 0.7530
+------------training done------------
+--------------done processing for set----------> 38
+|| accuracy|| 0.7534460425376892 0.7530447840690613
+inst vocal 957 || delta vocal-> 72644
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1724786 samples, validate on 431197 samples
+Epoch 1/3
+ - 5s - loss: 1.9866 - accuracy: 0.4943 - val_loss: 1.8258 - val_accuracy: 0.5645
+Epoch 2/3
+ - 4s - loss: 1.5561 - accuracy: 0.5652 - val_loss: 1.3134 - val_accuracy: 0.5703
+Epoch 3/3
+ - 4s - loss: 1.2054 - accuracy: 0.6149 - val_loss: 1.1353 - val_accuracy: 0.6258
+------------training done------------
+--------------done processing for set----------> 39
+|| accuracy|| 0.6271468997001648 0.6268449425697327
+inst vocal 998 || delta vocal-> 81511
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1570720 samples, validate on 392681 samples
+Epoch 1/3
+ - 4s - loss: 1.8807 - accuracy: 0.6536 - val_loss: 1.5891 - val_accuracy: 0.7151
+Epoch 2/3
+ - 3s - loss: 1.2364 - accuracy: 0.7153 - val_loss: 0.9836 - val_accuracy: 0.7151
+Epoch 3/3
+ - 3s - loss: 0.9196 - accuracy: 0.7430 - val_loss: 0.8698 - val_accuracy: 0.7605
+------------training done------------
+--------------done processing for set----------> 40
+|| accuracy|| 0.7597989439964294 0.7596572637557983
+inst vocal 972 || delta vocal-> 78584
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1499060 samples, validate on 374765 samples
+Epoch 1/3
+ - 4s - loss: 1.9522 - accuracy: 0.5765 - val_loss: 1.7577 - val_accuracy: 0.6416
+Epoch 2/3
+ - 4s - loss: 1.4744 - accuracy: 0.6423 - val_loss: 1.2095 - val_accuracy: 0.6416
+Epoch 3/3
+ - 3s - loss: 1.1103 - accuracy: 0.6693 - val_loss: 1.0427 - val_accuracy: 0.6921
+------------training done------------
+--------------done processing for set----------> 41
+|| accuracy|| 0.6921724081039429 0.6933297514915466
+inst vocal 949 || delta vocal-> 82279
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1029254 samples, validate on 257314 samples
+Epoch 1/3
+ - 3s - loss: 2.0121 - accuracy: 0.5426 - val_loss: 1.8985 - val_accuracy: 0.7360
+Epoch 2/3
+ - 2s - loss: 1.7300 - accuracy: 0.7361 - val_loss: 1.4936 - val_accuracy: 0.7384
+Epoch 3/3
+ - 2s - loss: 1.2212 - accuracy: 0.7575 - val_loss: 0.9530 - val_accuracy: 0.7821
+------------training done------------
+--------------done processing for set----------> 42
+|| accuracy|| 0.782850980758667 0.7828935980796814
+inst vocal 964 || delta vocal-> 78901
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1064708 samples, validate on 266178 samples
+Epoch 1/3
+ - 3s - loss: 1.9859 - accuracy: 0.6158 - val_loss: 1.8482 - val_accuracy: 0.7336
+Epoch 2/3
+ - 2s - loss: 1.6307 - accuracy: 0.7339 - val_loss: 1.3430 - val_accuracy: 0.7331
+Epoch 3/3
+ - 2s - loss: 1.0928 - accuracy: 0.7339 - val_loss: 0.9012 - val_accuracy: 0.7331
+------------training done------------
+--------------done processing for set----------> 43
+|| accuracy|| 0.7337089776992798 0.7345924377441406
+inst vocal 948 || delta vocal-> 78579
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 3594884 samples, validate on 898721 samples
+Epoch 1/3
+ - 9s - loss: 1.4013 - accuracy: 0.8322 - val_loss: 0.5746 - val_accuracy: 0.8571
+Epoch 2/3
+ - 8s - loss: 0.4870 - accuracy: 0.8756 - val_loss: 0.4473 - val_accuracy: 0.8808
+Epoch 3/3
+ - 8s - loss: 0.4268 - accuracy: 0.8835 - val_loss: 0.4126 - val_accuracy: 0.8834
+------------training done------------
+--------------done processing for set----------> 44
+|| accuracy|| 0.8837556838989258 0.8839190602302551
+inst vocal 976 || delta vocal-> 81769
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1179735 samples, validate on 294934 samples
+Epoch 1/3
+ - 3s - loss: 1.9865 - accuracy: 0.6212 - val_loss: 1.8462 - val_accuracy: 0.6959
+Epoch 2/3
+ - 2s - loss: 1.6288 - accuracy: 0.6955 - val_loss: 1.3330 - val_accuracy: 0.6959
+Epoch 3/3
+ - 3s - loss: 1.0987 - accuracy: 0.7038 - val_loss: 0.9301 - val_accuracy: 0.7396
+------------training done------------
+--------------done processing for set----------> 45
+|| accuracy|| 0.739355742931366 0.7390190958976746
+inst vocal 942 || delta vocal-> 88774
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1384356 samples, validate on 346090 samples
+Epoch 1/3
+ - 4s - loss: 1.9665 - accuracy: 0.5886 - val_loss: 1.7894 - val_accuracy: 0.7094
+Epoch 2/3
+ - 3s - loss: 1.5112 - accuracy: 0.7135 - val_loss: 1.1795 - val_accuracy: 0.7297
+Epoch 3/3
+ - 3s - loss: 0.9967 - accuracy: 0.7509 - val_loss: 0.8944 - val_accuracy: 0.7554
+------------training done------------
+--------------done processing for set----------> 46
+|| accuracy|| 0.7559831142425537 0.7561759352684021
+inst vocal 953 || delta vocal-> 89756
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1056154 samples, validate on 264039 samples
+Epoch 1/3
+ - 4s - loss: 1.9394 - accuracy: 0.7114 - val_loss: 1.7549 - val_accuracy: 0.7315
+Epoch 2/3
+ - 2s - loss: 1.4827 - accuracy: 0.7320 - val_loss: 1.1479 - val_accuracy: 0.7315
+Epoch 3/3
+ - 3s - loss: 0.9588 - accuracy: 0.7322 - val_loss: 0.8398 - val_accuracy: 0.7353
+------------training done------------
+--------------done processing for set----------> 47
+|| accuracy|| 0.7359196543693542 0.7355220317840576
+inst vocal 1004 || delta vocal-> 81410
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2947332 samples, validate on 736833 samples
+Epoch 1/3
+ - 8s - loss: 1.5472 - accuracy: 0.7699 - val_loss: 0.8397 - val_accuracy: 0.7927
+Epoch 2/3
+ - 7s - loss: 0.6793 - accuracy: 0.8106 - val_loss: 0.6021 - val_accuracy: 0.8361
+Epoch 3/3
+ - 7s - loss: 0.5678 - accuracy: 0.8380 - val_loss: 0.5392 - val_accuracy: 0.8389
+------------training done------------
+--------------done processing for set----------> 48
+|| accuracy|| 0.8389303684234619 0.8395894169807434
+inst vocal 1012 || delta vocal-> 86348
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1662036 samples, validate on 415510 samples
+Epoch 1/3
+ - 5s - loss: 1.9112 - accuracy: 0.6426 - val_loss: 1.6380 - val_accuracy: 0.7065
+Epoch 2/3
+ - 4s - loss: 1.2623 - accuracy: 0.7064 - val_loss: 0.9569 - val_accuracy: 0.7065
+Epoch 3/3
+ - 4s - loss: 0.8651 - accuracy: 0.7250 - val_loss: 0.8074 - val_accuracy: 0.7455
+------------training done------------
+--------------done processing for set----------> 49
+|| accuracy|| 0.7451627850532532 0.7449662089347839
+inst vocal 1130 || delta vocal-> 95684
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2075652 samples, validate on 518913 samples
+Epoch 1/3
+ - 6s - loss: 1.7811 - accuracy: 0.7762 - val_loss: 1.2823 - val_accuracy: 0.8008
+Epoch 2/3
+ - 5s - loss: 0.8608 - accuracy: 0.8010 - val_loss: 0.6652 - val_accuracy: 0.8008
+Epoch 3/3
+ - 5s - loss: 0.6140 - accuracy: 0.8249 - val_loss: 0.5799 - val_accuracy: 0.8362
+------------training done------------
+--------------done processing for set----------> 50
+|| accuracy|| 0.836433470249176 0.8362048864364624
+inst vocal 1149 || delta vocal-> 87900
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2949106 samples, validate on 737277 samples
+Epoch 1/3
+ - 8s - loss: 1.5980 - accuracy: 0.7714 - val_loss: 0.8532 - val_accuracy: 0.8157
+Epoch 2/3
+ - 7s - loss: 0.6244 - accuracy: 0.8266 - val_loss: 0.5379 - val_accuracy: 0.8437
+Epoch 3/3
+ - 7s - loss: 0.5154 - accuracy: 0.8448 - val_loss: 0.4941 - val_accuracy: 0.8466
+------------training done------------
+--------------done processing for set----------> 51
+|| accuracy|| 0.8461432456970215 0.8459872603416443
+inst vocal 1203 || delta vocal-> 84902
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 9682440 samples, validate on 2420611 samples
+Epoch 1/3
+ - 26s - loss: 0.8328 - accuracy: 0.8156 - val_loss: 0.4265 - val_accuracy: 0.8688
+Epoch 2/3
+ - 22s - loss: 0.3864 - accuracy: 0.8716 - val_loss: 0.3692 - val_accuracy: 0.8729
+Epoch 3/3
+ - 24s - loss: 0.3654 - accuracy: 0.8728 - val_loss: 0.3628 - val_accuracy: 0.8729
+------------training done------------
+--------------done processing for set----------> 52
+|| accuracy|| 0.8727896213531494 0.8724893927574158
+inst vocal 1334 || delta vocal-> 70322
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 6505910 samples, validate on 1626478 samples
+Epoch 1/3
+ - 16s - loss: 0.8728 - accuracy: 0.8878 - val_loss: 0.2989 - val_accuracy: 0.9212
+Epoch 2/3
+ - 17s - loss: 0.2715 - accuracy: 0.9228 - val_loss: 0.2538 - val_accuracy: 0.9242
+Epoch 3/3
+ - 16s - loss: 0.2471 - accuracy: 0.9240 - val_loss: 0.2416 - val_accuracy: 0.9245
+------------training done------------
+--------------done processing for set----------> 53
+|| accuracy|| 0.9242430329322815 0.9241982698440552
+inst vocal 1335 || delta vocal-> 78534
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 9982630 samples, validate on 2495658 samples
+Epoch 1/3
+ - 27s - loss: 0.6514 - accuracy: 0.9055 - val_loss: 0.2696 - val_accuracy: 0.9196
+Epoch 2/3
+ - 24s - loss: 0.2488 - accuracy: 0.9234 - val_loss: 0.2391 - val_accuracy: 0.9250
+Epoch 3/3
+ - 24s - loss: 0.2342 - accuracy: 0.9255 - val_loss: 0.2319 - val_accuracy: 0.9253
+------------training done------------
+--------------done processing for set----------> 54
+|| accuracy|| 0.9256752133369446 0.9258192777633667
+inst vocal 1414 || delta vocal-> 83801
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 18706256 samples, validate on 4676564 samples
+Epoch 1/3
+ - 50s - loss: 0.3359 - accuracy: 0.9595 - val_loss: 0.1150 - val_accuracy: 0.9688
+Epoch 2/3
+ - 50s - loss: 0.1096 - accuracy: 0.9693 - val_loss: 0.1064 - val_accuracy: 0.9693
+Epoch 3/3
+ - 48s - loss: 0.1047 - accuracy: 0.9695 - val_loss: 0.1042 - val_accuracy: 0.9694
+------------training done------------
+--------------done processing for set----------> 55
+|| accuracy|| 0.9708874225616455 0.9694264531135559
+inst vocal 1428 || delta vocal-> 68646
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 18636892 samples, validate on 4659224 samples
+Epoch 1/3
+ - 51s - loss: 0.3336 - accuracy: 0.9575 - val_loss: 0.1007 - val_accuracy: 0.9715
+Epoch 2/3
+ - 49s - loss: 0.0963 - accuracy: 0.9719 - val_loss: 0.0937 - val_accuracy: 0.9720
+Epoch 3/3
+ - 48s - loss: 0.0926 - accuracy: 0.9721 - val_loss: 0.0921 - val_accuracy: 0.9721
+------------training done------------
+--------------done processing for set----------> 56
+|| accuracy|| 0.9735841155052185 0.9721044898033142
+inst vocal 1472 || delta vocal-> 67743
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 16661386 samples, validate on 4165347 samples
+Epoch 1/3
+ - 43s - loss: 0.3780 - accuracy: 0.9541 - val_loss: 0.1347 - val_accuracy: 0.9657
+Epoch 2/3
+ - 42s - loss: 0.1257 - accuracy: 0.9661 - val_loss: 0.1206 - val_accuracy: 0.9663
+Epoch 3/3
+ - 42s - loss: 0.1184 - accuracy: 0.9665 - val_loss: 0.1170 - val_accuracy: 0.9665
+------------training done------------
+--------------done processing for set----------> 57
+|| accuracy|| 0.9673683047294617 0.9666027426719666
+inst vocal 1595 || delta vocal-> 60168
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 12120301 samples, validate on 3030076 samples
+Epoch 1/3
+ - 33s - loss: 0.4902 - accuracy: 0.9464 - val_loss: 0.1766 - val_accuracy: 0.9528
+Epoch 2/3
+ - 33s - loss: 0.1609 - accuracy: 0.9547 - val_loss: 0.1518 - val_accuracy: 0.9558
+Epoch 3/3
+ - 31s - loss: 0.1470 - accuracy: 0.9562 - val_loss: 0.1444 - val_accuracy: 0.9562
+------------training done------------
+--------------done processing for set----------> 58
+|| accuracy|| 0.9563189744949341 0.9563648700714111
+inst vocal 1343 || delta vocal-> 62225
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 18459149 samples, validate on 4614788 samples
+Epoch 1/3
+ - 52s - loss: 0.4501 - accuracy: 0.9126 - val_loss: 0.1582 - val_accuracy: 0.9459
+Epoch 2/3
+ - 51s - loss: 0.1518 - accuracy: 0.9462 - val_loss: 0.1489 - val_accuracy: 0.9461
+Epoch 3/3
+ - 48s - loss: 0.1479 - accuracy: 0.9464 - val_loss: 0.1472 - val_accuracy: 0.9463
+------------training done------------
+--------------done processing for set----------> 59
+|| accuracy|| 0.9469937086105347 0.9463995695114136
+inst vocal 1261 || delta vocal-> 67180
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 4573857 samples, validate on 1143465 samples
+Epoch 1/3
+ - 13s - loss: 1.1620 - accuracy: 0.8368 - val_loss: 0.5072 - val_accuracy: 0.8496
+Epoch 2/3
+ - 12s - loss: 0.4298 - accuracy: 0.8639 - val_loss: 0.3783 - val_accuracy: 0.8697
+Epoch 3/3
+ - 11s - loss: 0.3604 - accuracy: 0.8710 - val_loss: 0.3482 - val_accuracy: 0.8740
+------------training done------------
+--------------done processing for set----------> 60
+|| accuracy|| 0.8738515973091125 0.8742618560791016
+inst vocal 994 || delta vocal-> 69513
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1879404 samples, validate on 469851 samples
+Epoch 1/3
+ - 6s - loss: 1.8553 - accuracy: 0.6055 - val_loss: 1.5263 - val_accuracy: 0.6306
+Epoch 2/3
+ - 4s - loss: 1.2333 - accuracy: 0.6403 - val_loss: 1.0544 - val_accuracy: 0.6646
+Epoch 3/3
+ - 4s - loss: 0.9825 - accuracy: 0.6993 - val_loss: 0.9311 - val_accuracy: 0.7017
+------------training done------------
+--------------done processing for set----------> 61
+|| accuracy|| 0.7025682330131531 0.7031301259994507
+inst vocal 950 || delta vocal-> 81320
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 13081401 samples, validate on 3270351 samples
+Epoch 1/3
+ - 34s - loss: 0.7683 - accuracy: 0.8024 - val_loss: 0.3061 - val_accuracy: 0.8834
+Epoch 2/3
+ - 33s - loss: 0.2921 - accuracy: 0.8833 - val_loss: 0.2859 - val_accuracy: 0.8831
+Epoch 3/3
+ - 33s - loss: 0.2843 - accuracy: 0.8833 - val_loss: 0.2832 - val_accuracy: 0.8834
+------------training done------------
+--------------done processing for set----------> 62
+|| accuracy|| 0.8833662271499634 0.883582592010498
+inst vocal 1050 || delta vocal-> 73239
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2360796 samples, validate on 590199 samples
+Epoch 1/3
+ - 7s - loss: 1.8254 - accuracy: 0.6828 - val_loss: 1.3576 - val_accuracy: 0.7328
+Epoch 2/3
+ - 6s - loss: 0.9641 - accuracy: 0.7373 - val_loss: 0.7611 - val_accuracy: 0.7617
+Epoch 3/3
+ - 6s - loss: 0.7027 - accuracy: 0.7746 - val_loss: 0.6607 - val_accuracy: 0.7820
+------------training done------------
+--------------done processing for set----------> 63
+|| accuracy|| 0.781790554523468 0.7817264795303345
+inst vocal 961 || delta vocal-> 84164
+____________________________________________________________________________________________________
+$$$$$$$ done for file ||------------> 620
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 898679 samples, validate on 224670 samples
+Epoch 1/3
+ - 3s - loss: 2.0129 - accuracy: 0.7325 - val_loss: 1.9108 - val_accuracy: 0.8842
+Epoch 2/3
+ - 2s - loss: 1.7430 - accuracy: 0.8838 - val_loss: 1.4899 - val_accuracy: 0.8842
+Epoch 3/3
+ - 2s - loss: 1.1668 - accuracy: 0.8838 - val_loss: 0.8083 - val_accuracy: 0.8842
+------------training done------------
+--------------done processing for set----------> 0
+|| accuracy|| 0.8838464021682739 0.8837494850158691
+inst vocal 369 || delta vocal-> 1378
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 862427 samples, validate on 215607 samples
+Epoch 1/3
+ - 3s - loss: 2.0099 - accuracy: 0.6683 - val_loss: 1.9140 - val_accuracy: 0.7763
+Epoch 2/3
+ - 2s - loss: 1.7841 - accuracy: 0.7774 - val_loss: 1.5993 - val_accuracy: 0.7763
+Epoch 3/3
+ - 2s - loss: 1.3641 - accuracy: 0.7774 - val_loss: 1.0787 - val_accuracy: 0.7763
+------------training done------------
+--------------done processing for set----------> 1
+|| accuracy|| 0.7771906852722168 0.7778527736663818
+inst vocal 389 || delta vocal-> 1432
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2894508 samples, validate on 723627 samples
+Epoch 1/3
+ - 8s - loss: 1.6691 - accuracy: 0.6439 - val_loss: 1.0869 - val_accuracy: 0.6538
+Epoch 2/3
+ - 7s - loss: 0.8880 - accuracy: 0.6927 - val_loss: 0.7813 - val_accuracy: 0.7368
+Epoch 3/3
+ - 7s - loss: 0.7264 - accuracy: 0.7431 - val_loss: 0.6841 - val_accuracy: 0.7605
+------------training done------------
+--------------done processing for set----------> 2
+|| accuracy|| 0.760063111782074 0.7598171234130859
+inst vocal 411 || delta vocal-> 1504
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 4026922 samples, validate on 1006731 samples
+Epoch 1/3
+ - 10s - loss: 1.2593 - accuracy: 0.8403 - val_loss: 0.4515 - val_accuracy: 0.8796
+Epoch 2/3
+ - 9s - loss: 0.3612 - accuracy: 0.8994 - val_loss: 0.3092 - val_accuracy: 0.9119
+Epoch 3/3
+ - 9s - loss: 0.2819 - accuracy: 0.9159 - val_loss: 0.2614 - val_accuracy: 0.9189
+------------training done------------
+--------------done processing for set----------> 3
+|| accuracy|| 0.9188372492790222 0.9184046983718872
+inst vocal 365 || delta vocal-> 1353
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2124235 samples, validate on 531059 samples
+Epoch 1/3
+ - 6s - loss: 1.6292 - accuracy: 0.8990 - val_loss: 0.9841 - val_accuracy: 0.9187
+Epoch 2/3
+ - 4s - loss: 0.5353 - accuracy: 0.9191 - val_loss: 0.3520 - val_accuracy: 0.9187
+Epoch 3/3
+ - 4s - loss: 0.3198 - accuracy: 0.9236 - val_loss: 0.2970 - val_accuracy: 0.9378
+------------training done------------
+--------------done processing for set----------> 4
+|| accuracy|| 0.9379070401191711 0.9379317760467529
+inst vocal 364 || delta vocal-> 1168
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 509838 samples, validate on 127460 samples
+Epoch 1/3
+ - 2s - loss: 2.0442 - accuracy: 0.5316 - val_loss: 1.9942 - val_accuracy: 0.7446
+Epoch 2/3
+ - 1s - loss: 1.9415 - accuracy: 0.7424 - val_loss: 1.8680 - val_accuracy: 0.7446
+Epoch 3/3
+ - 1s - loss: 1.7887 - accuracy: 0.7424 - val_loss: 1.6785 - val_accuracy: 0.7446
+------------training done------------
+--------------done processing for set----------> 5
+|| accuracy|| 0.7428597211837769 0.7426129579544067
+inst vocal 347 || delta vocal-> 1439
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 706587 samples, validate on 176647 samples
+Epoch 1/3
+ - 3s - loss: 2.0190 - accuracy: 0.7011 - val_loss: 1.9370 - val_accuracy: 0.8612
+Epoch 2/3
+ - 1s - loss: 1.8340 - accuracy: 0.8623 - val_loss: 1.6889 - val_accuracy: 0.8612
+Epoch 3/3
+ - 1s - loss: 1.4997 - accuracy: 0.8623 - val_loss: 1.2549 - val_accuracy: 0.8612
+------------training done------------
+--------------done processing for set----------> 6
+|| accuracy|| 0.8621010780334473 0.8630931973457336
+inst vocal 401 || delta vocal-> 1505
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1964297 samples, validate on 491075 samples
+Epoch 1/3
+ - 6s - loss: 1.8900 - accuracy: 0.5277 - val_loss: 1.6187 - val_accuracy: 0.5262
+Epoch 2/3
+ - 4s - loss: 1.3153 - accuracy: 0.5542 - val_loss: 1.0840 - val_accuracy: 0.6556
+Epoch 3/3
+ - 4s - loss: 0.9579 - accuracy: 0.6618 - val_loss: 0.8646 - val_accuracy: 0.6761
+------------training done------------
+--------------done processing for set----------> 7
+|| accuracy|| 0.6759716868400574 0.6758434772491455
+inst vocal 380 || delta vocal-> 1309
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2524803 samples, validate on 631201 samples
+Epoch 1/3
+ - 7s - loss: 1.7491 - accuracy: 0.5913 - val_loss: 1.2291 - val_accuracy: 0.6121
+Epoch 2/3
+ - 5s - loss: 0.9879 - accuracy: 0.6537 - val_loss: 0.8531 - val_accuracy: 0.6688
+Epoch 3/3
+ - 5s - loss: 0.7925 - accuracy: 0.6735 - val_loss: 0.7462 - val_accuracy: 0.6862
+------------training done------------
+--------------done processing for set----------> 8
+|| accuracy|| 0.686180055141449 0.6864476799964905
+inst vocal 368 || delta vocal-> 1368
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1607609 samples, validate on 401903 samples
+Epoch 1/3
+ - 5s - loss: 1.8729 - accuracy: 0.7438 - val_loss: 1.5139 - val_accuracy: 0.8100
+Epoch 2/3
+ - 3s - loss: 1.0346 - accuracy: 0.8097 - val_loss: 0.6850 - val_accuracy: 0.8100
+Epoch 3/3
+ - 3s - loss: 0.6128 - accuracy: 0.8110 - val_loss: 0.5570 - val_accuracy: 0.8740
+------------training done------------
+--------------done processing for set----------> 9
+|| accuracy|| 0.874090850353241 0.8734484910964966
+inst vocal 394 || delta vocal-> 1365
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1272196 samples, validate on 318049 samples
+Epoch 1/3
+ - 4s - loss: 1.8800 - accuracy: 0.8410 - val_loss: 1.6137 - val_accuracy: 0.8868
+Epoch 2/3
+ - 3s - loss: 1.1956 - accuracy: 0.8860 - val_loss: 0.7240 - val_accuracy: 0.8868
+Epoch 3/3
+ - 3s - loss: 0.5054 - accuracy: 0.8860 - val_loss: 0.3852 - val_accuracy: 0.8868
+------------training done------------
+--------------done processing for set----------> 10
+|| accuracy|| 0.886193037033081 0.8863921165466309
+inst vocal 368 || delta vocal-> 1509
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1084824 samples, validate on 271207 samples
+Epoch 1/3
+ - 4s - loss: 1.9978 - accuracy: 0.6352 - val_loss: 1.8780 - val_accuracy: 0.7791
+Epoch 2/3
+ - 2s - loss: 1.7049 - accuracy: 0.7789 - val_loss: 1.4614 - val_accuracy: 0.7791
+Epoch 3/3
+ - 2s - loss: 1.1987 - accuracy: 0.7789 - val_loss: 0.9347 - val_accuracy: 0.7791
+------------training done------------
+--------------done processing for set----------> 11
+|| accuracy|| 0.778946042060852 0.7790396809577942
+inst vocal 343 || delta vocal-> 1482
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 705451 samples, validate on 176363 samples
+Epoch 1/3
+ - 3s - loss: 2.0043 - accuracy: 0.7300 - val_loss: 1.9085 - val_accuracy: 0.8480
+Epoch 2/3
+ - 2s - loss: 1.7982 - accuracy: 0.8472 - val_loss: 1.6468 - val_accuracy: 0.8480
+Epoch 3/3
+ - 1s - loss: 1.4686 - accuracy: 0.8472 - val_loss: 1.2392 - val_accuracy: 0.8480
+------------training done------------
+--------------done processing for set----------> 12
+|| accuracy|| 0.8473544120788574 0.8486928343772888
+inst vocal 423 || delta vocal-> 1567
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1172062 samples, validate on 293016 samples
+Epoch 1/3
+ - 4s - loss: 1.9114 - accuracy: 0.7788 - val_loss: 1.6853 - val_accuracy: 0.8715
+Epoch 2/3
+ - 2s - loss: 1.3423 - accuracy: 0.8713 - val_loss: 0.9362 - val_accuracy: 0.8715
+Epoch 3/3
+ - 2s - loss: 0.6964 - accuracy: 0.8713 - val_loss: 0.5570 - val_accuracy: 0.8715
+------------training done------------
+--------------done processing for set----------> 13
+|| accuracy|| 0.8713358640670776 0.871384859085083
+inst vocal 355 || delta vocal-> 1320
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 494809 samples, validate on 123703 samples
+Epoch 1/3
+ - 2s - loss: 2.0406 - accuracy: 0.4374 - val_loss: 1.9699 - val_accuracy: 0.7241
+Epoch 2/3
+ - 1s - loss: 1.9064 - accuracy: 0.7236 - val_loss: 1.8183 - val_accuracy: 0.7209
+Epoch 3/3
+ - 1s - loss: 1.7344 - accuracy: 0.7221 - val_loss: 1.6192 - val_accuracy: 0.7209
+------------training done------------
+--------------done processing for set----------> 14
+|| accuracy|| 0.7218760251998901 0.719839334487915
+inst vocal 413 || delta vocal-> 1595
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1570104 samples, validate on 392527 samples
+Epoch 1/3
+ - 5s - loss: 1.9696 - accuracy: 0.5717 - val_loss: 1.7891 - val_accuracy: 0.6732
+Epoch 2/3
+ - 3s - loss: 1.4526 - accuracy: 0.6733 - val_loss: 1.0740 - val_accuracy: 0.6738
+Epoch 3/3
+ - 3s - loss: 0.8811 - accuracy: 0.7368 - val_loss: 0.7428 - val_accuracy: 0.8128
+------------training done------------
+--------------done processing for set----------> 15
+|| accuracy|| 0.8130601048469543 0.8125436305999756
+inst vocal 375 || delta vocal-> 1432
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1081443 samples, validate on 270361 samples
+Epoch 1/3
+ - 4s - loss: 1.9549 - accuracy: 0.7086 - val_loss: 1.7805 - val_accuracy: 0.7701
+Epoch 2/3
+ - 2s - loss: 1.5117 - accuracy: 0.7700 - val_loss: 1.1537 - val_accuracy: 0.7701
+Epoch 3/3
+ - 2s - loss: 0.9169 - accuracy: 0.7700 - val_loss: 0.7618 - val_accuracy: 0.7701
+------------training done------------
+--------------done processing for set----------> 16
+|| accuracy|| 0.7700324654579163 0.7703383564949036
+inst vocal 406 || delta vocal-> 1631
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1087827 samples, validate on 271957 samples
+Epoch 1/3
+ - 4s - loss: 1.9625 - accuracy: 0.7773 - val_loss: 1.7837 - val_accuracy: 0.8721
+Epoch 2/3
+ - 2s - loss: 1.5054 - accuracy: 0.8722 - val_loss: 1.1244 - val_accuracy: 0.8721
+Epoch 3/3
+ - 2s - loss: 0.7987 - accuracy: 0.8722 - val_loss: 0.5524 - val_accuracy: 0.8721
+------------training done------------
+--------------done processing for set----------> 17
+|| accuracy|| 0.8721892833709717 0.8722030520439148
+inst vocal 468 || delta vocal-> 1648
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2072332 samples, validate on 518084 samples
+Epoch 1/3
+ - 6s - loss: 1.7954 - accuracy: 0.7067 - val_loss: 1.3383 - val_accuracy: 0.7288
+Epoch 2/3
+ - 4s - loss: 0.9792 - accuracy: 0.7297 - val_loss: 0.7888 - val_accuracy: 0.7288
+Epoch 3/3
+ - 4s - loss: 0.7291 - accuracy: 0.7795 - val_loss: 0.6882 - val_accuracy: 0.7900
+------------training done------------
+--------------done processing for set----------> 18
+|| accuracy|| 0.7906845808029175 0.7899516224861145
+inst vocal 402 || delta vocal-> 1689
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1507516 samples, validate on 376880 samples
+Epoch 1/3
+ - 5s - loss: 1.9368 - accuracy: 0.7102 - val_loss: 1.6980 - val_accuracy: 0.7904
+Epoch 2/3
+ - 3s - loss: 1.2848 - accuracy: 0.7911 - val_loss: 0.8342 - val_accuracy: 0.7904
+Epoch 3/3
+ - 3s - loss: 0.6839 - accuracy: 0.8170 - val_loss: 0.5941 - val_accuracy: 0.8486
+------------training done------------
+--------------done processing for set----------> 19
+|| accuracy|| 0.8490296006202698 0.8487699627876282
+inst vocal 391 || delta vocal-> 1586
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1135972 samples, validate on 283993 samples
+Epoch 1/3
+ - 4s - loss: 1.9660 - accuracy: 0.6621 - val_loss: 1.8175 - val_accuracy: 0.7708
+Epoch 2/3
+ - 2s - loss: 1.5850 - accuracy: 0.7697 - val_loss: 1.2690 - val_accuracy: 0.7708
+Epoch 3/3
+ - 2s - loss: 0.9749 - accuracy: 0.7697 - val_loss: 0.7437 - val_accuracy: 0.7708
+------------training done------------
+--------------done processing for set----------> 20
+|| accuracy|| 0.7699682712554932 0.7702599763870239
+inst vocal 437 || delta vocal-> 1243
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 901832 samples, validate on 225458 samples
+Epoch 1/3
+ - 4s - loss: 1.9478 - accuracy: 0.8331 - val_loss: 1.7903 - val_accuracy: 0.8732
+Epoch 2/3
+ - 2s - loss: 1.5596 - accuracy: 0.8741 - val_loss: 1.2456 - val_accuracy: 0.8732
+Epoch 3/3
+ - 2s - loss: 0.9283 - accuracy: 0.8741 - val_loss: 0.6388 - val_accuracy: 0.8732
+------------training done------------
+--------------done processing for set----------> 21
+|| accuracy|| 0.8739330768585205 0.8732247948646545
+inst vocal 428 || delta vocal-> 1392
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2007348 samples, validate on 501837 samples
+Epoch 1/3
+ - 6s - loss: 1.9466 - accuracy: 0.5030 - val_loss: 1.7133 - val_accuracy: 0.5486
+Epoch 2/3
+ - 4s - loss: 1.3743 - accuracy: 0.5475 - val_loss: 1.0878 - val_accuracy: 0.5485
+Epoch 3/3
+ - 4s - loss: 0.9651 - accuracy: 0.6666 - val_loss: 0.8724 - val_accuracy: 0.6966
+------------training done------------
+--------------done processing for set----------> 22
+|| accuracy|| 0.6955636739730835 0.6953445076942444
+inst vocal 385 || delta vocal-> 1369
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 4438246 samples, validate on 1109562 samples
+Epoch 1/3
+ - 11s - loss: 1.2778 - accuracy: 0.7305 - val_loss: 0.6587 - val_accuracy: 0.7516
+Epoch 2/3
+ - 9s - loss: 0.5602 - accuracy: 0.8335 - val_loss: 0.4771 - val_accuracy: 0.8521
+Epoch 3/3
+ - 10s - loss: 0.4393 - accuracy: 0.8540 - val_loss: 0.4149 - val_accuracy: 0.8547
+------------training done------------
+--------------done processing for set----------> 23
+|| accuracy|| 0.8544560074806213 0.8539137244224548
+inst vocal 529 || delta vocal-> 1360
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1954558 samples, validate on 488640 samples
+Epoch 1/3
+ - 6s - loss: 1.8853 - accuracy: 0.5983 - val_loss: 1.5615 - val_accuracy: 0.6348
+Epoch 2/3
+ - 4s - loss: 1.1791 - accuracy: 0.6389 - val_loss: 0.9146 - val_accuracy: 0.6840
+Epoch 3/3
+ - 4s - loss: 0.8151 - accuracy: 0.7151 - val_loss: 0.7396 - val_accuracy: 0.7249
+------------training done------------
+--------------done processing for set----------> 24
+|| accuracy|| 0.7249866724014282 0.7252928614616394
+inst vocal 520 || delta vocal-> 1630
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1956545 samples, validate on 489137 samples
+Epoch 1/3
+ - 6s - loss: 1.9590 - accuracy: 0.4821 - val_loss: 1.7450 - val_accuracy: 0.5461
+Epoch 2/3
+ - 4s - loss: 1.4367 - accuracy: 0.5519 - val_loss: 1.2036 - val_accuracy: 0.6007
+Epoch 3/3
+ - 4s - loss: 1.0894 - accuracy: 0.6225 - val_loss: 0.9947 - val_accuracy: 0.6359
+------------training done------------
+--------------done processing for set----------> 25
+|| accuracy|| 0.6356423497200012 0.6360610723495483
+inst vocal 436 || delta vocal-> 1670
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 811514 samples, validate on 202879 samples
+Epoch 1/3
+ - 4s - loss: 1.9744 - accuracy: 0.7728 - val_loss: 1.8506 - val_accuracy: 0.8408
+Epoch 2/3
+ - 2s - loss: 1.6730 - accuracy: 0.8414 - val_loss: 1.4346 - val_accuracy: 0.8408
+Epoch 3/3
+ - 2s - loss: 1.1598 - accuracy: 0.8414 - val_loss: 0.8630 - val_accuracy: 0.8408
+------------training done------------
+--------------done processing for set----------> 26
+|| accuracy|| 0.8412725925445557 0.841363251209259
+inst vocal 429 || delta vocal-> 1448
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1885627 samples, validate on 471407 samples
+Epoch 1/3
+ - 6s - loss: 1.9464 - accuracy: 0.6462 - val_loss: 1.6812 - val_accuracy: 0.7320
+Epoch 2/3
+ - 4s - loss: 1.1961 - accuracy: 0.7325 - val_loss: 0.7816 - val_accuracy: 0.7486
+Epoch 3/3
+ - 4s - loss: 0.6524 - accuracy: 0.8029 - val_loss: 0.5675 - val_accuracy: 0.8158
+------------training done------------
+--------------done processing for set----------> 27
+|| accuracy|| 0.8155660629272461 0.8148128390312195
+inst vocal 463 || delta vocal-> 1739
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 9093484 samples, validate on 2273372 samples
+Epoch 1/3
+ - 24s - loss: 1.0999 - accuracy: 0.7292 - val_loss: 0.5860 - val_accuracy: 0.7949
+Epoch 2/3
+ - 23s - loss: 0.5502 - accuracy: 0.8033 - val_loss: 0.5353 - val_accuracy: 0.8039
+Epoch 3/3
+ - 22s - loss: 0.5318 - accuracy: 0.8039 - val_loss: 0.5296 - val_accuracy: 0.8038
+------------training done------------
+--------------done processing for set----------> 28
+|| accuracy|| 0.8039307594299316 0.8039798140525818
+inst vocal 521 || delta vocal-> 1690
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2058072 samples, validate on 514519 samples
+Epoch 1/3
+ - 6s - loss: 1.7975 - accuracy: 0.7509 - val_loss: 1.3079 - val_accuracy: 0.8237
+Epoch 2/3
+ - 4s - loss: 0.8052 - accuracy: 0.8236 - val_loss: 0.5572 - val_accuracy: 0.8359
+Epoch 3/3
+ - 4s - loss: 0.5049 - accuracy: 0.8407 - val_loss: 0.4659 - val_accuracy: 0.8624
+------------training done------------
+--------------done processing for set----------> 29
+|| accuracy|| 0.8624305129051208 0.8626433610916138
+inst vocal 537 || delta vocal-> 1645
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 1732639 samples, validate on 433160 samples
+Epoch 1/3
+ - 6s - loss: 1.9194 - accuracy: 0.5896 - val_loss: 1.6930 - val_accuracy: 0.6116
+Epoch 2/3
+ - 4s - loss: 1.3922 - accuracy: 0.6117 - val_loss: 1.1389 - val_accuracy: 0.6334
+Epoch 3/3
+ - 4s - loss: 1.0029 - accuracy: 0.6688 - val_loss: 0.8928 - val_accuracy: 0.7098
+------------training done------------
+--------------done processing for set----------> 30
+|| accuracy|| 0.7094292044639587 0.7087563872337341
+inst vocal 593 || delta vocal-> 1608
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 2624978 samples, validate on 656245 samples
+Epoch 1/3
+ - 8s - loss: 1.7626 - accuracy: 0.6980 - val_loss: 1.1804 - val_accuracy: 0.7258
+Epoch 2/3
+ - 6s - loss: 0.7866 - accuracy: 0.7766 - val_loss: 0.6109 - val_accuracy: 0.8283
+Epoch 3/3
+ - 6s - loss: 0.5421 - accuracy: 0.8428 - val_loss: 0.4819 - val_accuracy: 0.8449
+------------training done------------
+--------------done processing for set----------> 31
+|| accuracy|| 0.8457407355308533 0.8456166386604309
+inst vocal 644 || delta vocal-> 1753
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 4185574 samples, validate on 1046394 samples
+Epoch 1/3
+ - 12s - loss: 1.1486 - accuracy: 0.8789 - val_loss: 0.3629 - val_accuracy: 0.8928
+Epoch 2/3
+ - 10s - loss: 0.2947 - accuracy: 0.9137 - val_loss: 0.2520 - val_accuracy: 0.9278
+Epoch 3/3
+ - 10s - loss: 0.2288 - accuracy: 0.9335 - val_loss: 0.2100 - val_accuracy: 0.9341
+------------training done------------
+--------------done processing for set----------> 32
+|| accuracy|| 0.9338799715042114 0.9337283968925476
+inst vocal 674 || delta vocal-> 1472
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 9726154 samples, validate on 2431539 samples
+Epoch 1/3
+ - 27s - loss: 0.8843 - accuracy: 0.8151 - val_loss: 0.4086 - val_accuracy: 0.8763
+Epoch 2/3
+ - 23s - loss: 0.3524 - accuracy: 0.8788 - val_loss: 0.3305 - val_accuracy: 0.8794
+Epoch 3/3
+ - 23s - loss: 0.3253 - accuracy: 0.8791 - val_loss: 0.3212 - val_accuracy: 0.8794
+------------training done------------
+--------------done processing for set----------> 33
+|| accuracy|| 0.8791698217391968 0.8790274858474731
+inst vocal 636 || delta vocal-> 1695
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 11936160 samples, validate on 2984041 samples
+Epoch 1/3
+ - 34s - loss: 0.6426 - accuracy: 0.8695 - val_loss: 0.2589 - val_accuracy: 0.9011
+Epoch 2/3
+ - 31s - loss: 0.2352 - accuracy: 0.9012 - val_loss: 0.2228 - val_accuracy: 0.9015
+Epoch 3/3
+ - 31s - loss: 0.2190 - accuracy: 0.9015 - val_loss: 0.2166 - val_accuracy: 0.9016
+------------training done------------
+--------------done processing for set----------> 34
+|| accuracy|| 0.9013990759849548 0.901393711566925
+inst vocal 687 || delta vocal-> 1614
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 7716854 samples, validate on 1929214 samples
+Epoch 1/3
+ - 20s - loss: 0.6441 - accuracy: 0.9328 - val_loss: 0.1930 - val_accuracy: 0.9435
+Epoch 2/3
+ - 19s - loss: 0.1689 - accuracy: 0.9477 - val_loss: 0.1450 - val_accuracy: 0.9519
+Epoch 3/3
+ - 18s - loss: 0.1371 - accuracy: 0.9516 - val_loss: 0.1316 - val_accuracy: 0.9522
+------------training done------------
+--------------done processing for set----------> 35
+|| accuracy|| 0.9519301652908325 0.9519979953765869
+inst vocal 720 || delta vocal-> 1498
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 5363025 samples, validate on 1340757 samples
+Epoch 1/3
+ - 14s - loss: 0.9234 - accuracy: 0.9083 - val_loss: 0.2718 - val_accuracy: 0.9209
+Epoch 2/3
+ - 14s - loss: 0.2353 - accuracy: 0.9344 - val_loss: 0.2077 - val_accuracy: 0.9356
+Epoch 3/3
+ - 14s - loss: 0.1919 - accuracy: 0.9406 - val_loss: 0.1792 - val_accuracy: 0.9423
+------------training done------------
+--------------done processing for set----------> 36
+|| accuracy|| 0.9423343539237976 0.9423942565917969
+inst vocal 578 || delta vocal-> 1785
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 8510640 samples, validate on 2127660 samples
+Epoch 1/3
+ - 22s - loss: 0.7718 - accuracy: 0.8707 - val_loss: 0.3097 - val_accuracy: 0.9129
+Epoch 2/3
+ - 19s - loss: 0.2510 - accuracy: 0.9155 - val_loss: 0.2188 - val_accuracy: 0.9183
+Epoch 3/3
+ - 20s - loss: 0.2124 - accuracy: 0.9185 - val_loss: 0.2089 - val_accuracy: 0.9187
+------------training done------------
+--------------done processing for set----------> 37
+|| accuracy|| 0.9185842871665955 0.9187391996383667
+inst vocal 614 || delta vocal-> 2126
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 6094771 samples, validate on 1523693 samples
+Epoch 1/3
+ - 16s - loss: 0.8740 - accuracy: 0.9022 - val_loss: 0.2736 - val_accuracy: 0.9249
+Epoch 2/3
+ - 13s - loss: 0.2353 - accuracy: 0.9373 - val_loss: 0.2089 - val_accuracy: 0.9381
+Epoch 3/3
+ - 14s - loss: 0.1973 - accuracy: 0.9388 - val_loss: 0.1889 - val_accuracy: 0.9396
+------------training done------------
+--------------done processing for set----------> 38
+|| accuracy|| 0.9395676255226135 0.9396849274635315
+inst vocal 618 || delta vocal-> 1644
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 7673513 samples, validate on 1918379 samples
+Epoch 1/3
+ - 20s - loss: 0.7005 - accuracy: 0.9251 - val_loss: 0.1995 - val_accuracy: 0.9445
+Epoch 2/3
+ - 18s - loss: 0.1663 - accuracy: 0.9535 - val_loss: 0.1410 - val_accuracy: 0.9562
+Epoch 3/3
+ - 17s - loss: 0.1290 - accuracy: 0.9582 - val_loss: 0.1237 - val_accuracy: 0.9584
+------------training done------------
+--------------done processing for set----------> 39
+|| accuracy|| 0.9585849046707153 0.9587054252624512
+inst vocal 732 || delta vocal-> 1542
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 9690984 samples, validate on 2422747 samples
+Epoch 1/3
+ - 27s - loss: 0.5334 - accuracy: 0.9448 - val_loss: 0.1353 - val_accuracy: 0.9707
+Epoch 2/3
+ - 24s - loss: 0.1057 - accuracy: 0.9745 - val_loss: 0.0901 - val_accuracy: 0.9768
+Epoch 3/3
+ - 24s - loss: 0.0837 - accuracy: 0.9771 - val_loss: 0.0809 - val_accuracy: 0.9769
+------------training done------------
+--------------done processing for set----------> 40
+|| accuracy|| 0.9770575165748596 0.9771021604537964
+inst vocal 843 || delta vocal-> 1615
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 8765127 samples, validate on 2191282 samples
+Epoch 1/3
+ - 25s - loss: 0.6154 - accuracy: 0.9238 - val_loss: 0.1861 - val_accuracy: 0.9503
+Epoch 2/3
+ - 22s - loss: 0.1559 - accuracy: 0.9529 - val_loss: 0.1382 - val_accuracy: 0.9547
+Epoch 3/3
+ - 23s - loss: 0.1286 - accuracy: 0.9564 - val_loss: 0.1231 - val_accuracy: 0.9566
+------------training done------------
+--------------done processing for set----------> 41
+|| accuracy|| 0.9564992785453796 0.9563547372817993
+inst vocal 865 || delta vocal-> 1604
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 7223149 samples, validate on 1805788 samples
+Epoch 1/3
+ - 21s - loss: 0.8301 - accuracy: 0.8811 - val_loss: 0.2506 - val_accuracy: 0.9410
+Epoch 2/3
+ - 18s - loss: 0.1999 - accuracy: 0.9433 - val_loss: 0.1731 - val_accuracy: 0.9454
+Epoch 3/3
+ - 17s - loss: 0.1657 - accuracy: 0.9458 - val_loss: 0.1600 - val_accuracy: 0.9461
+------------training done------------
+--------------done processing for set----------> 42
+|| accuracy|| 0.9460363984107971 0.945859432220459
+inst vocal 785 || delta vocal-> 1636
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 7469367 samples, validate on 1867342 samples
+Epoch 1/3
+ - 19s - loss: 0.8153 - accuracy: 0.8919 - val_loss: 0.2328 - val_accuracy: 0.9374
+Epoch 2/3
+ - 18s - loss: 0.1882 - accuracy: 0.9419 - val_loss: 0.1633 - val_accuracy: 0.9437
+Epoch 3/3
+ - 17s - loss: 0.1556 - accuracy: 0.9444 - val_loss: 0.1518 - val_accuracy: 0.9444
+------------training done------------
+--------------done processing for set----------> 43
+|| accuracy|| 0.9444378018379211 0.9443636536598206
+inst vocal 729 || delta vocal-> 1426
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 8050963 samples, validate on 2012741 samples
+Epoch 1/3
+ - 21s - loss: 0.6911 - accuracy: 0.9376 - val_loss: 0.1487 - val_accuracy: 0.9626
+Epoch 2/3
+ - 20s - loss: 0.1177 - accuracy: 0.9658 - val_loss: 0.1017 - val_accuracy: 0.9668
+Epoch 3/3
+ - 18s - loss: 0.0969 - accuracy: 0.9670 - val_loss: 0.0937 - val_accuracy: 0.9673
+------------training done------------
+--------------done processing for set----------> 44
+|| accuracy|| 0.9672162532806396 0.9671655297279358
+inst vocal 715 || delta vocal-> 1531
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 9513058 samples, validate on 2378265 samples
+Epoch 1/3
+ - 24s - loss: 0.5121 - accuracy: 0.9620 - val_loss: 0.0882 - val_accuracy: 0.9803
+Epoch 2/3
+ - 24s - loss: 0.0790 - accuracy: 0.9818 - val_loss: 0.0720 - val_accuracy: 0.9827
+Epoch 3/3
+ - 23s - loss: 0.0679 - accuracy: 0.9836 - val_loss: 0.0650 - val_accuracy: 0.9839
+------------training done------------
+--------------done processing for set----------> 45
+|| accuracy|| 0.9838709235191345 0.9839386940002441
+inst vocal 860 || delta vocal-> 1530
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+Train on 5838096 samples, validate on 1459525 samples
+Epoch 1/3
+ - 18s - loss: 0.7336 - accuracy: 0.9773 - val_loss: 0.0875 - val_accuracy: 0.9823
+Epoch 2/3
+ - 14s - loss: 0.0760 - accuracy: 0.9844 - val_loss: 0.0698 - val_accuracy: 0.9851
+Epoch 3/3
+ - 14s - loss: 0.0668 - accuracy: 0.9853 - val_loss: 0.0640 - val_accuracy: 0.9854

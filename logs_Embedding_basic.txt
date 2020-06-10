@@ -1,0 +1,137 @@
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_0.hdf5
+Train on 3244051 samples, validate on 811013 samples
+Epoch 1/50
+ - 12s - loss: 0.4797 - accuracy: 0.8665 - val_loss: 0.4795 - val_accuracy: 0.8665
+Epoch 2/50
+ - 12s - loss: 0.4797 - accuracy: 0.8665 - val_loss: 0.4795 - val_accuracy: 0.8665
+Epoch 3/50
+ - 12s - loss: 0.4797 - accuracy: 0.8665 - val_loss: 0.4795 - val_accuracy: 0.8665
+Epoch 00003: early stopping
+------------training done------------
+--------------done processing for set----------> 0
+|| accuracy|| 0.866525411605835 0.866209864616394
+inst vocal 212 || delta vocal-> 28897
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_1.hdf5
+Train on 3212159 samples, validate on 803040 samples
+Epoch 1/50
+ - 12s - loss: 0.4632 - accuracy: 0.8721 - val_loss: 0.4622 - val_accuracy: 0.8723
+Epoch 2/50
+ - 12s - loss: 0.4631 - accuracy: 0.8721 - val_loss: 0.4622 - val_accuracy: 0.8723
+Epoch 3/50
+ - 12s - loss: 0.4631 - accuracy: 0.8721 - val_loss: 0.4622 - val_accuracy: 0.8723
+Epoch 00003: early stopping
+------------training done------------
+--------------done processing for set----------> 1
+|| accuracy|| 0.8721017241477966 0.8723188042640686
+inst vocal 172 || delta vocal-> 27505
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_2.hdf5
+Train on 3208464 samples, validate on 802117 samples
+Epoch 1/50
+ - 13s - loss: 0.4622 - accuracy: 0.8724 - val_loss: 0.4613 - val_accuracy: 0.8729
+Epoch 2/50
+ - 12s - loss: 0.4621 - accuracy: 0.8724 - val_loss: 0.4613 - val_accuracy: 0.8729
+Epoch 3/50
+ - 12s - loss: 0.4622 - accuracy: 0.8724 - val_loss: 0.4612 - val_accuracy: 0.8729
+Epoch 4/50
+ - 12s - loss: 0.4622 - accuracy: 0.8724 - val_loss: 0.4613 - val_accuracy: 0.8729
+Epoch 5/50
+ - 12s - loss: 0.4622 - accuracy: 0.8724 - val_loss: 0.4613 - val_accuracy: 0.8729
+Epoch 00005: early stopping
+------------training done------------
+--------------done processing for set----------> 2
+|| accuracy|| 0.8724932670593262 0.872448205947876
+inst vocal 188 || delta vocal-> 26753
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_3.hdf5
+Train on 3229423 samples, validate on 807356 samples
+Epoch 1/50
+ - 12s - loss: 0.4679 - accuracy: 0.8704 - val_loss: 0.4678 - val_accuracy: 0.8703
+Epoch 2/50
+ - 12s - loss: 0.4678 - accuracy: 0.8704 - val_loss: 0.4678 - val_accuracy: 0.8703
+Epoch 3/50
+ - 12s - loss: 0.4678 - accuracy: 0.8704 - val_loss: 0.4678 - val_accuracy: 0.8703
+Epoch 4/50
+ - 12s - loss: 0.4678 - accuracy: 0.8704 - val_loss: 0.4678 - val_accuracy: 0.8703
+Epoch 00004: early stopping
+------------training done------------
+--------------done processing for set----------> 3
+|| accuracy|| 0.8703654408454895 0.8707079887390137
+inst vocal 268 || delta vocal-> 27512
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_4.hdf5
+Train on 3202448 samples, validate on 800612 samples
+Epoch 1/50
+ - 12s - loss: 0.4595 - accuracy: 0.8728 - val_loss: 0.4576 - val_accuracy: 0.8734
+Epoch 2/50
+ - 12s - loss: 0.4595 - accuracy: 0.8728 - val_loss: 0.4576 - val_accuracy: 0.8734
+Epoch 3/50
+ - 11s - loss: 0.4595 - accuracy: 0.8728 - val_loss: 0.4576 - val_accuracy: 0.8734
+Epoch 4/50
+ - 12s - loss: 0.4595 - accuracy: 0.8728 - val_loss: 0.4576 - val_accuracy: 0.8734
+Epoch 5/50
+ - 12s - loss: 0.4595 - accuracy: 0.8728 - val_loss: 0.4577 - val_accuracy: 0.8734
+Epoch 6/50
+ - 12s - loss: 0.4595 - accuracy: 0.8728 - val_loss: 0.4577 - val_accuracy: 0.8734
+Epoch 00006: early stopping
+------------training done------------
+--------------done processing for set----------> 4
+|| accuracy|| 0.872935950756073 0.87278151512146
+inst vocal 164 || delta vocal-> 26509
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_5.hdf5
+Train on 3228107 samples, validate on 807027 samples
+Epoch 1/50
+ - 13s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4673 - val_accuracy: 0.8707
+Epoch 2/50
+ - 12s - loss: 0.4686 - accuracy: 0.8703 - val_loss: 0.4674 - val_accuracy: 0.8707
+Epoch 3/50
+ - 12s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4673 - val_accuracy: 0.8707
+Epoch 4/50
+ - 12s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4673 - val_accuracy: 0.8707
+Epoch 5/50
+ - 13s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4673 - val_accuracy: 0.8707
+Epoch 6/50
+ - 12s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4673 - val_accuracy: 0.8707
+Epoch 7/50
+ - 12s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4674 - val_accuracy: 0.8707
+Epoch 8/50
+ - 12s - loss: 0.4687 - accuracy: 0.8703 - val_loss: 0.4673 - val_accuracy: 0.8707
+Epoch 00008: early stopping
+------------training done------------
+--------------done processing for set----------> 5
+|| accuracy|| 0.8703780174255371 0.8701496720314026
+inst vocal 254 || delta vocal-> 29411
+____________________________________________________________________________________________________
+--------------------split done---------------------
+----------------labels done----------------------
+--------
+-------------------labels transformed---------------------
+using loaded model--> /nfs_home/nbhardwaj/model_weights/finalwts/510/510_6.hdf5
+Train on 3206316 samples, validate on 801580 samples
+Epoch 1/50
